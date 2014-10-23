@@ -4,14 +4,14 @@
 			"name" :	"cassandra-monitoring-extension",
 			"displayName" : "Cassandra Extension",
 			"description" : "Cassandra Monitoring extension.",
-			"metadataLink" : "https://github.com/Appdynamics/cassandra-monitoring-extension/extension_metadata.json",
+			"repoLink" : "https://github.com/Appdynamics/cassandra-monitoring-extension/",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
 		},
 		{
-			name : "ssl-certificate-monitoring-extension",
-			displayName : "SSL Certificate Monitor",
-			metadataLink : "https://github.com/Appdynamics/ssl-certificate-monitoring-extension/extension_metadata.json",
-			imageLink : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
+			"name" : "ssl-certificate-monitoring-extension",
+			"displayName" : "SSL Certificate Monitor",
+			"repoLink" : "https://github.com/Appdynamics/ssl-certificate-monitoring-extension/",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		}
 		
 	]
