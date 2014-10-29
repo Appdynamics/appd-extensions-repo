@@ -17,7 +17,7 @@
 			"id" : "network-monitoring-extension",
 			"displayName" : "Network Monitor",
 			"repoLink" : "https://github.com/Appdynamics/network-monitoring-extension/",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/network_128.png"
 		},
 		{
 			"id" : "ssl-certificate-monitoring-extension",
