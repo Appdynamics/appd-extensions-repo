@@ -3,25 +3,25 @@
 		{
 			"id" :	"cassandra-monitoring-extension",
 			"displayName" : "Cassandra Extension",
-			"metadataLink" : "https://github.com/Appdynamics/cassandra-monitoring-extension/extension_metadata.json"
+			"metadataLink" : "https://github.com/Appdynamics/cassandra-monitoring-extension/extension_metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
 		},
 		{
 			"id" : "ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Monitor",
-			"metadataLink" : "https://github.com/Appdynamics/ssl-certificate-monitoring-extension/extension_metadata.json"
+			"metadataLink" : "https://github.com/Appdynamics/ssl-certificate-monitoring-extension/extension_metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		},
 		{
 			"id" : "network-monitoring-extension",
 			"displayName" : "Network Monitor",
-			"metadataLink" : "https://github.com/Appdynamics/network-monitoring-extension/extension_metadata.json"
+			"metadataLink" : "https://github.com/Appdynamics/network-monitoring-extension/extension_metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/network_128.png"
 		},
 		{
 			"id" : "ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Monitor",
-			"metadataLink" : "https://github.com/Appdynamics/ssl-certificate-monitoring-extension/extension_metadata.json"
+			"metadataLink" : "https://github.com/Appdynamics/ssl-certificate-monitoring-extension/extension_metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		}
 	]
