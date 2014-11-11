@@ -23,6 +23,12 @@
 			"displayName" : "SSL Certificate Monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
+		},
+		{
+			"id" : "rabbitmq-monitoring-extension",
+			"displayName" : "RabbitMQ Monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
 		}
 	]
 }
