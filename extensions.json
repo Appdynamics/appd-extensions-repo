@@ -3,30 +3,40 @@
 		{
 			"id" :	"cassandra-monitoring-extension",
 			"displayName" : "Cassandra Extension",
+			"description" : "Cassandra Extension",
+			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cassandra-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
 		},
 		{
 			"id" : "ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Monitor",
+			"description" : "SSL Certificate Monitor",
+			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		},
 		{
 			"id" : "network-monitoring-extension",
 			"displayName" : "Network Monitor",
+			"description" : "Network Monitor",
+			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/network-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/network_128.png"
 		},
 		{
 			"id" : "ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Monitor",
+			"description" : "Cassandra Extension",
+			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		},
 		{
 			"id" : "rabbitmq-monitoring-extension",
-			"displayName" : "RabbitMQ Monitor",
+			"displayName" : "RabbitMQ Extension",
+			"description" : "Cassandra Extension",
+			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
 		}
