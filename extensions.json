@@ -39,6 +39,15 @@
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
+		},
+		{
+			"id" : "azure-monitoring-extension",
+			"displayName" : "Azure Extension",
+			"description" : "Azure Extension",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/azure-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/azure_128.png"
 		}
+
 	]
 }
