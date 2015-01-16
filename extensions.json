@@ -27,7 +27,7 @@
 		{
 			"id" : "ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Monitor",
-			"description" : "Cassandra Extension",
+			"description" : "SSL Certificate Monitor",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
@@ -35,7 +35,7 @@
 		{
 			"id" : "rabbitmq-monitoring-extension",
 			"displayName" : "RabbitMQ Extension",
-			"description" : "Cassandra Extension",
+			"description" : "RabbitMQ Extension",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
