@@ -55,6 +55,14 @@
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/azure-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/azure_128.png"
+		},
+		{
+			"id" : "ssl-certificate-monitoring-extension",
+			"displayName" : "SSL Certificate Monitor",
+			"description" : "SSL Certificate Monitor",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		}
 
 	]
