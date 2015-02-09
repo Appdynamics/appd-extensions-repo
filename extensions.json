@@ -3,67 +3,12 @@
 		{
 			"id" :	"cassandra-monitoring-extension",
 			"displayName" : "Cassandra Extension",
-			"description" : "Cassandra Extension",
+			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Cassandra servers.
+			For more information please visit http://community.appdynamics.com/t5/eXchange-Community-AppDynamics/Cassandra-Monitoring-Extension/idi-p/827",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cassandra-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
-		},
-		{
-			"id" : "ssl-certificate-monitoring-extension",
-			"displayName" : "SSL Certificate Monitor",
-			"description" : "SSL Certificate Monitor",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
-		},
-		{
-			"id" : "network-monitoring-extension",
-			"displayName" : "Network Monitor",
-			"description" : "Network Monitor",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/network-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/network_128.png"
-		},
-		{
-			"id" : "ssl-certificate-monitoring-extension",
-			"displayName" : "SSL Certificate Monitor",
-			"description" : "SSL Certificate Monitor",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
-		},
-		{
-			"id" : "rabbitmq-monitoring-extension",
-			"displayName" : "RabbitMQ Extension",
-			"description" : "RabbitMQ Extension",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
-		},
-		{
-			"id" : "azure-monitoring-extension",
-			"displayName" : "Azure Extension",
-			"description" : "Azure Extension",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/azure-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/azure_128.png"
-		},
-		{
-			"id" : "couchdb-monitoring-extension",
-			"displayName" : "Azure Extension",
-			"description" : "Azure Extension",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/azure-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/azure_128.png"
-		},
-		{
-			"id" : "ssl-certificate-monitoring-extension",
-			"displayName" : "SSL Certificate Monitor",
-			"description" : "SSL Certificate Monitor",
-			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
-		}
-
+		}	
+		
 	]
 }
