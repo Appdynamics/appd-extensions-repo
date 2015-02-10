@@ -17,6 +17,15 @@
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/urlpinger_128.png"
 		},
 		{
+			"id" :	"rabbitmq-monitoring-extension",
+			"displayName" : "RabbitMQ Extension",
+			"description" : "The RabbitMQ Monitoring extension collects metrics from an RabbitMQ messaging server and uploads them to the AppDynamics Controller.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
+		},
+
+		{
 			"id" :	"ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Extension",
 			"description" : "An AppDynamics extension that monitors the SSL certificates for configurable domains and should be used with a stand alone Java Machine Agent.",
