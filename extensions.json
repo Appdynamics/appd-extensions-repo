@@ -9,6 +9,14 @@
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
 		},
 		{
+			"id" :	"url-monitoring-extension",
+			"displayName" : "Url Monitor Extension",
+			"description" : "An AppDynamics Machine Agent extension to visit a set of URLs and report whether they are up or down.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/url-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/urlpinger_128.png"
+		},
+		{
 			"id" :	"ssl-certificate-monitoring-extension",
 			"displayName" : "SSL Certificate Extension",
 			"description" : "An AppDynamics extension that monitors the SSL certificates for configurable domains and should be used with a stand alone Java Machine Agent.",
