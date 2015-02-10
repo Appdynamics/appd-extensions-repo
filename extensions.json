@@ -7,6 +7,14 @@
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cassandra-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
+		},
+		{
+			"id" :	"ssl-certificate-monitoring-extension",
+			"displayName" : "SSL Certificate Extension",
+			"description" : "An AppDynamics extension that monitors the SSL certificates for configurable domains and should be used with a stand alone Java Machine Agent.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
 		}	
 		
 	]
