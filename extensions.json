@@ -6,7 +6,8 @@
 			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Cassandra servers.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cassandra-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/cassandra_128.png"
+			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426150/.thumbnails/cassandra_128-52x0.png",
+			"tags" : ["cassandra monitor","cassandra","big data"]
 		},
 		{
 			"id" :	"url-monitor",
@@ -14,7 +15,8 @@
 			"description" : "An AppDynamics Machine Agent extension to visit a set of URLs and report whether they are up or down.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/url-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/urlpinger_128.png"
+			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426087/.thumbnails/urlpinger_128-52x0.png",
+			"tags" : ["url monitor","service availability"]
 		},
 		{
 			"id" :	"rabbitmq-monitor",
@@ -22,7 +24,8 @@
 			"description" : "The RabbitMQ Monitoring extension collects metrics from an RabbitMQ messaging server and uploads them to the AppDynamics Controller.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/rabbitmq_128.png"
+			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426170/.thumbnails/rabbitmq_128-52x0.png",
+			"tags" : ["rabbitmq monitor","rabbitmq","amqp"]
 		},
 
 		{
@@ -31,7 +34,8 @@
 			"description" : "An AppDynamics extension that monitors the SSL certificates for configurable domains and should be used with a stand alone Java Machine Agent.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"
+			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426192/.thumbnails/ssl_128-52x0.png",
+			"tags" : ["ssl certificate monitor","ssl certificate"]
 		},
 		
 		{
@@ -39,8 +43,9 @@
 			"displayName" : "Redis Monitor",
 			"description" : "An AppDynamics extension that monitors the redis instances and uploads the metrics to the controller. It should be used with a stand alone Java Machine Agent.",
 			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://no-cache.appdynamics-static.com/appsphere/logos/ssl_128.png"	
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/redis-monitoring-extension/master/metadata.json",
+			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1510098508/.thumbnails/redis-logo-stack-52x0.png",
+			"tags" : ["redis monitor","redis"]
 		}
 		
 	]
