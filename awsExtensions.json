@@ -1,0 +1,22 @@
+{
+	"awsExtensions" : [
+		{
+			"id" :	"aws-ec2-monitoring-extension",
+			"displayName" : "AWS EC2 Monitoring Extension",
+			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Amazon EC2.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/aws-ec2-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://github.com/Appdynamics/aws-ec2-monitoring-extension/blob/master/EC2.png",
+			"tags" : ["aws","aws ec2 monitor","big data"]
+		},
+		{
+			"id" :	"aws-s3-monitoring-extension",
+			"displayName" : "AWS S3 Monitoring Extension",
+			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Amazon S3.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/aws-s3-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://github.com/Appdynamics/aws-s3-monitoring-extension/blob/master/s3amazon.png",
+			"tags" : ["aws","aws s3 monitor", "big data"]
+		}
+	]
+}
