@@ -46,6 +46,15 @@
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/redis-monitoring-extension/master/metadata.json",
 			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1510098508/.thumbnails/redis-logo-stack-52x0.png",
 			"tags" : ["redis monitor","redis"]
+		},
+		{
+			"id" :	"aws-monitor",
+			"displayName" : "AWS Monitor",
+			"description" : "An AppDynamics extension that monitors different AWS instances and uploads the metrics to the controller. It should be used with a stand alone Java Machine Agent.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/redis-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1439426128/aws_128.png",
+			"tags" : ["aws monitor","aws"]
 		}
 		
 	]
