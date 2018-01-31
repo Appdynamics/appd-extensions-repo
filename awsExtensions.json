@@ -1,5 +1,5 @@
 {
-	"awsExtensions" : [
+	"extensions" : [
 		{
 			"id" :	"aws-ec2-monitoring-extension",
 			"displayName" : "AWS EC2 Monitoring Extension",
