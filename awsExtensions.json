@@ -6,7 +6,7 @@
 			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Amazon EC2.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/aws-ec2-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://github.com/Appdynamics/aws-ec2-monitoring-extension/blob/master/EC2.png",
+			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1517464098/ec2.png",
 			"tags" : ["aws","aws ec2 monitor","big data"]
 		},
 		{
@@ -15,8 +15,17 @@
 			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Amazon S3.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/aws-s3-monitoring-extension/master/metadata.json",
-			"imageLink" : "https://github.com/Appdynamics/aws-s3-monitoring-extension/blob/master/s3amazon.png",
+			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1517510918/s3amazon.png",
 			"tags" : ["aws","aws s3 monitor", "big data"]
+		},
+		{
+			"id" :	"aws-rds-monitoring-extension",
+			"displayName" : "AWS RDS Monitoring Extension",
+			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Amazon RDS.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/aws-rds-monitoring-extension/master/metadata.json",
+			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1517557783/rds.png",
+			"tags" : ["aws","aws rds monitor", "big data"]
 		}
 	]
 }
