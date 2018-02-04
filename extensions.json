@@ -3,7 +3,7 @@
 		{
 			"id" :	"cassandra-monitor",
 			"displayName" : "Cassandra Monitor",
-			"description" : "An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Cassandra servers.",
+			"description" : "An AppDynamics extension to be used with a standalone Java machine agent to provide metrics for Cassandra servers.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cassandra-monitoring-extension/master/metadata.json",
 			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426150/.thumbnails/cassandra_128-52x0.png",
@@ -21,7 +21,7 @@
 		{
 			"id" :	"rabbitmq-monitor",
 			"displayName" : "RabbitMQ Monitor",
-			"description" : "The RabbitMQ Monitoring extension collects metrics from an RabbitMQ messaging server and uploads them to the AppDynamics Controller.",
+			"description" : "The RabbitMQ Monitoring extension collects metrics from a RabbitMQ messaging server and uploads them to the AppDynamics Controller.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/rabbitmq-monitoring-extension/master/metadata.json",
 			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426170/.thumbnails/rabbitmq_128-52x0.png",
@@ -31,7 +31,7 @@
 		{
 			"id" :	"ssl-certificate-monitor",
 			"displayName" : "SSL Certificate Monitor",
-			"description" : "An AppDynamics extension that monitors the SSL certificates for configurable domains and should be used with a stand alone Java Machine Agent.",
+			"description" : "An AppDynamics extension that monitors SSL certificates for configurable domains and should be used with a stand alone Java Machine Agent.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/ssl-certificate-monitoring-extension/master/metadata.json",
 			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1439426192/.thumbnails/ssl_128-52x0.png",
@@ -41,7 +41,7 @@
 		{
 			"id" :	"redis-monitor",
 			"displayName" : "Redis Monitor",
-			"description" : "An AppDynamics extension that monitors the redis instances and uploads the metrics to the controller. It should be used with a stand alone Java Machine Agent.",
+			"description" : "An AppDynamics extension that monitors Redis instances and uploads metrics to the controller. It should be used with a standalone Java Machine Agent.",
 			"type" : "monitor",
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/redis-monitoring-extension/master/metadata.json",
 			"imageLink" : "https:///www.appdynamics.com/media/uploaded-images/1510098508/.thumbnails/redis-logo-stack-52x0.png",
@@ -55,7 +55,15 @@
 			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/redis-monitoring-extension/master/metadata.json",
 			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1439426128/aws_128.png",
 			"tags" : ["aws monitor","aws"]
+		},
+		{
+			"id" :	"pcf-monitor",
+			"displayName" : "Pivotal Cloud Foundry Extension",
+			"description" : "An AppDynamics machine agent extension to provide metrics from Pivotal Cloud Foundry.",
+			"type" : "monitor",
+			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cloud-foundry-extension/master/metadata.json",
+			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1517764846/pcf.png",
+			"tags" : ["pcf monitor","pcf"]
 		}
-		
 	]
 }
