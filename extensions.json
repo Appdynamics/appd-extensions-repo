@@ -57,11 +57,11 @@
 			"tags" : ["aws monitor","aws"]
 		},
 		{
-			"id" :	"pcf-monitor",
+			"id" :	"pivotal-cloudfoundry-monitor",
 			"displayName" : "Pivotal Cloud Foundry Extension",
 			"description" : "An AppDynamics machine agent extension to provide metrics from Pivotal Cloud Foundry.",
 			"type" : "monitor",
-			"metadataLink" : "https://raw.githubusercontent.com/Appdynamics/cloud-foundry-extension/master/metadata.json",
+			"metadataLink" : "https://github.com/Appdynamics/cloudfoundry-firehose-monitoring-extension/blob/master/metadata.json",
 			"imageLink" : "https://www.appdynamics.com/media/uploaded-images/1517764846/pcf.png",
 			"tags" : ["pcf monitor","pcf"]
 		}
